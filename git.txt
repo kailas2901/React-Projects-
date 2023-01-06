@@ -1,0 +1,24 @@
+path
+git init 
+git add . or file name
+git commit -m "message"
+git remote  name " repo link"
+git push remotename master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+react remote name rec
